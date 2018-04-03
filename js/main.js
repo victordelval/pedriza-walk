@@ -19,11 +19,11 @@ var terrainsegmentsize = 0.25;  //put a heightmap coordinate at every one of the
 // con base de 500 px -> Pedriza 0.25
 
 //var terraintexture = 'spain_texture_127dpi.png';
-var terraintexture = '../assets/foto.jpg';
-var water = '../assets/water.jpg';
+var terraintexture = 'assets/foto.jpg';
+var water = 'assets/water.jpg';
 
 var charactermesh = 'js/droid.js';
-var charactertexture  = '../assets/droidskin.png'
+var charactertexture  = 'assets/droidskin.png'
 var characterscale = .02;
 
 var websocket_url = 'ws://localhost:7681';
